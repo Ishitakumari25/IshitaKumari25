@@ -1,7 +1,3 @@
-🎓 BTech CSE Student | 💻 Passionate about Coding | 🔐 Cybersecurity Learner | 🚀 Open Source Enthusiast  
-
----
-
 ## 🌟 About Me  
 •⁠  ⁠🔭 I’m currently working on Java & Networking Projects  
 •⁠  ⁠🌱 Learning Data Structures, Algorithms & Cybersecurity  
