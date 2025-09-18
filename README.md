@@ -3,7 +3,7 @@
 •⁠  ⁠🌱 Learning Data Structures, Algorithms & Cybersecurity  
 •⁠  ⁠👯 Looking to collaborate on Open Source Projects  
 •⁠  ⁠💬 Ask me about Java, C, Networking, Linux  
-•⁠  ⁠📫 How to reach me: [kumariishita26@gmail.com] | []  
+•⁠  ⁠📫 How to reach me: [kumariishita26@gmail.com] | [https://www.linkedin.com/in/ishita-kumari-647412331]  
 •⁠  ⁠⚡ Fun fact: I love solving coding challenges daily 🚀  
 
 💻 Tech Stack:  
