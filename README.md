@@ -3,5 +3,11 @@
 •⁠  ⁠🌱 Learning Data Structures, Algorithms & Cybersecurity  
 •⁠  ⁠👯 Looking to collaborate on Open Source Projects  
 •⁠  ⁠💬 Ask me about Java, C, Networking, Linux  
-•⁠  ⁠📫 How to reach me: [Your Email] | [LinkedIn]  
+•⁠  ⁠📫 How to reach me: [kumariishita26@gmail.com] | []  
 •⁠  ⁠⚡ Fun fact: I love solving coding challenges daily 🚀  
+
+💻 Tech Stack:  
+•⁠  ⁠Languages: Java, Python, C  
+•⁠  ⁠Tools: Git, GitHub, Linux, VS Code  
+•⁠  ⁠Interests: Cybersecurity, Networking, Open Source
+
